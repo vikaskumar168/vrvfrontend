@@ -3,8 +3,8 @@
 let currentUser = null;
 
 const users = [
-  { id: 1, username: "admin", password: "shiva", role: "admin" },
-  { id: 2, username: "user", password: "shiva", role: "user" },
+  { id: 1, username: "admin", password: "vikas", role: "admin" },
+  { id: 2, username: "user", password: "vikas", role: "user" },
 ];
 
 export const authService = {
